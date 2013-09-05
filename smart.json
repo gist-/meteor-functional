@@ -2,7 +2,7 @@
   "name": "meteor-functional",
   "description": "osteele's functional.js ported over to meteor",
   "homepage": "https://github.com/gist-/meteor-functional",
-  "author": "gist-",
+  "author": "gist- (tsc.edtech@gmail.com)",
   "version": "0.0.1",
   "git": "https://github.com/gist-/meteor-functional.git",
   "packages": {}
